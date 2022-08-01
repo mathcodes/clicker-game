@@ -1,7 +1,7 @@
 # clicker-game
 
 ## Description
-Event handlers, counter, and other gems from good old Vanilla JavaScript is all this one needs :) 
+Event handlers, counters, and other goodies from good old Vanilla JavaScript is all this one needs :) 
 
 ## [LIVE](https://mathcodes.github.io/clicker-game/)
 
