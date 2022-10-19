@@ -7,8 +7,6 @@ Event handlers, counters, and other goodies from good old Vanilla JavaScript is 
 
 ## [Gist](https://gist.github.com/mathcodes/468890dd33b75738b7763b0a2da7abdf)
 
-## Images
-
 ## Contact
 <img src="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
 
